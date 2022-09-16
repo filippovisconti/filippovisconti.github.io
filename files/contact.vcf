@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 12.6//EN
+N:Visconti;Filippo;;;
+FN:Filipppo Visconti
+ORG:ETH Zürich;
+EMAIL;type=INTERNET;type=WORK;type=pref:filippo@filippovisconti.com
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+39 346 4915591
+item1.URL;type=pref:www.filippovisconti.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
